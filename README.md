@@ -10,7 +10,7 @@ The assets included in the project are:
     * Creates a pyfunc model wrapper class that configures a model with prediction data capture to capture the numerical prediction responses
     * Register the linear regression model in MLflow
 
-**domino-mlflow-model-xgboost-imm.ipynb** - a notebook that trains a xgboost classifier model on the Iris dataset and does the following:
+* **domino-mlflow-model-xgboost-imm.ipynb** - a notebook that trains a xgboost classifier model on the Iris dataset and does the following:
 
     * Registers the training data used as a training set
     * Creates a pyfunc model wrapper class that configures a model with prediction data capture to capture the categorical prediction responses
